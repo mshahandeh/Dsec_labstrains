@@ -1,5 +1,5 @@
 # Dsec_labstrains
-This repository contains the phenotypic data reported in (https://www.biorxiv.org/content/10.64898/2026.01.26.701819v1)
+This repository contains the phenotypic data reported in (https://www.biorxiv.org/content/10.64898/2026.01.26.701819v1). 
 Data files are organized by figure panel. A full list of files and assay description is provided below:
 
 Fig2B.csv : olfactory trap assay 
