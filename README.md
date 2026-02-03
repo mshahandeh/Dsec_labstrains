@@ -32,8 +32,7 @@ FigS1B.csv : Proportion of surviving males after 60 min exposure to octanoic aci
 
 FigS3.csv : Egg volume calculations using egg L and W measurements from an independent second observer
 
-Note: Data presented in Fig5A are contained in Fig2D.csv
-Note: Data presented in FigS2 are contained in Fig2B.csv
+Note: Data presented in Fig5A are contained in Fig2D.csv; Data presented in FigS2 are contained in Fig2B.csv
 
 Results from statistical analyses are organized by Figure panel in Stats_wildDsec.xlsx
 
