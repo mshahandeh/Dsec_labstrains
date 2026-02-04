@@ -26,13 +26,13 @@ Fig6B.csv : Evening peak time under 12:12 h LD conditions
 
 Fig6D.csv : Evening peak time under 16:8 h LD conditions
 
-FigS1A.xlsx :  Raw data for octanoic acid survival assay - Males
+FigS2.csv : Egg volume calculations using egg L and W measurements from an independent second observer
 
-FigS1B.csv : Proportion of surviving males after 60 min exposure to octanoic acid
+FigS3A.xlsx :  Raw data for octanoic acid survival assay - Males
 
-FigS3.csv : Egg volume calculations using egg L and W measurements from an independent second observer
+FigS3B.csv : Proportion of surviving males after 60 min exposure to octanoic acid
 
-Note: Data presented in Fig5A are contained in 'Fig2D.csv'; Data presented in FigS2 are contained in 'Fig2B.csv'
+Note: Data presented in Fig5A are contained in 'Fig2D.csv'; Data presented in FigS1 are contained in 'Fig2B.csv'
 
 Results from statistical analyses are organized by Figure panel in 'Stats_wildDsec.xlsx'
 
