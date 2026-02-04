@@ -22,7 +22,11 @@ Fig5B.csv : Ovariole number counts from ovary dissections
 
 Fig5C.csv : Egg volume calculations using egg L and W measurements
 
+Figure 6A: Average activity plots were generated using the included MonitorN-N.txt files and 'metadata_12-12LD_wild_Dsec.csv' in the Rethomics package (see wild_Dsec.R for code).
+
 Fig6B.csv : Evening peak time under 12:12 h LD conditions
+
+Figure 6C: Average activity plots were generated using the included MonitorN-N.txt files and 'metadata_16-8LD_wild_Dsec.csv' in the Rethomics package (see wild_Dsec.R for code).
 
 Fig6D.csv : Evening peak time under 16:8 h LD conditions
 
@@ -32,7 +36,7 @@ FigS3A.xlsx :  Raw data for octanoic acid survival assay - Males
 
 FigS3B.csv : Proportion of surviving males after 60 min exposure to octanoic acid
 
-Note: Data presented in Fig5A are contained in 'Fig2D.csv'; Data presented in FigS1 are contained in 'Fig2B.csv'
+Note: Data presented in Fig5A are contained in 'Fig2D.csv'; Data presented in FigS1 are contained in 'Fig2B.csv.' 
 
 Results from statistical analyses are organized by Figure panel in 'Stats_wildDsec.xlsx'
 
